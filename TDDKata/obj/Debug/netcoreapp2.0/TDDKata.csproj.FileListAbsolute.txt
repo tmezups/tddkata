@@ -1,0 +1,11 @@
+D:\mezgit\tddkata\TDDKata\bin\Debug\netcoreapp2.0\TDDKata.deps.json
+D:\mezgit\tddkata\TDDKata\bin\Debug\netcoreapp2.0\TDDKata.runtimeconfig.json
+D:\mezgit\tddkata\TDDKata\bin\Debug\netcoreapp2.0\TDDKata.runtimeconfig.dev.json
+D:\mezgit\tddkata\TDDKata\bin\Debug\netcoreapp2.0\TDDKata.dll
+D:\mezgit\tddkata\TDDKata\bin\Debug\netcoreapp2.0\TDDKata.pdb
+D:\mezgit\tddkata\TDDKata\obj\Debug\netcoreapp2.0\TDDKata.csprojResolveAssemblyReference.cache
+D:\mezgit\tddkata\TDDKata\obj\Debug\netcoreapp2.0\TDDKata.csproj.CoreCompileInputs.cache
+D:\mezgit\tddkata\TDDKata\obj\Debug\netcoreapp2.0\TDDKata.AssemblyInfoInputs.cache
+D:\mezgit\tddkata\TDDKata\obj\Debug\netcoreapp2.0\TDDKata.AssemblyInfo.cs
+D:\mezgit\tddkata\TDDKata\obj\Debug\netcoreapp2.0\TDDKata.dll
+D:\mezgit\tddkata\TDDKata\obj\Debug\netcoreapp2.0\TDDKata.pdb
