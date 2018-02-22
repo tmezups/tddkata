@@ -673,9 +673,9 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\mezgit\\tddkata\\TDDKata\\TDDKata.csproj",
-      "projectName": "TDDKata",
-      "projectPath": "D:\\mezgit\\tddkata\\TDDKata\\TDDKata.csproj",
+      "projectUniqueName": "D:\\mezgit\\tddkata\\TDDKata\\TDDKata.StringCalculator.csproj",
+      "projectName": "TDDKata.StringCalculator",
+      "projectPath": "D:\\mezgit\\tddkata\\TDDKata\\TDDKata.StringCalculator.csproj",
       "packagesPath": "C:\\Users\\tim.mezups\\.nuget\\packages\\",
       "outputPath": "D:\\mezgit\\tddkata\\TDDKata\\obj\\",
       "projectStyle": "PackageReference",
