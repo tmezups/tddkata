@@ -11,6 +11,7 @@
           "Microsoft.NET.Test.Sdk": "15.6.0",
           "NSubstitute": "3.1.0",
           "Shouldly": "3.0.0",
+          "TDDKata.StringCalculator": "1.0.0",
           "xunit": "2.2.0",
           "xunit.runner.visualstudio": "2.2.0"
         },
@@ -1077,6 +1078,11 @@
           "Microsoft.TestPlatform.ObjectModel": "15.6.0",
           "System.Threading.ThreadPool": "4.0.10"
         }
+      },
+      "TDDKata.StringCalculator/1.0.0": {
+        "runtime": {
+          "TDDKata.StringCalculator.dll": {}
+        }
       }
     }
   },
@@ -1645,6 +1651,11 @@
       "sha512": "sha512-CZimTpet23CeI2oXjDtICecAuEJ8Z4xSwNFY2tTKcGfm4IzKBrFmS3yzdqMMdAfiHYUgKlcyefflLOyO9ArKyQ==",
       "path": "xunit.runner.visualstudio/2.2.0",
       "hashPath": "xunit.runner.visualstudio.2.2.0.nupkg.sha512"
+    },
+    "TDDKata.StringCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     }
   }
 }

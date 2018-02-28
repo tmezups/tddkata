@@ -1735,6 +1735,19 @@
         "build": {
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "TDDKata.StringCalculator/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.0",
+        "dependencies": {
+          "Microsoft.NETCore.App": "2.0.0"
+        },
+        "compile": {
+          "bin/placeholder/TDDKata.StringCalculator.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TDDKata.StringCalculator.dll": {}
+        }
       }
     }
   },
@@ -5874,6 +5887,11 @@
         "xunit.runner.visualstudio.2.2.0.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "TDDKata.StringCalculator/1.0.0": {
+      "type": "project",
+      "path": "../TDDKata/TDDKata.StringCalculator.csproj",
+      "msbuildProject": "../TDDKata/TDDKata.StringCalculator.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5882,6 +5900,7 @@
       "Microsoft.NETCore.App >= 2.0.0",
       "NSubstitute >= 3.1.0",
       "Shouldly >= 3.0.0",
+      "TDDKata.StringCalculator >= 1.0.0",
       "xunit >= 2.2.0",
       "xunit.runner.visualstudio >= 2.2.0"
     ]
@@ -5919,7 +5938,11 @@
       },
       "frameworks": {
         "netcoreapp2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\mezgit\\tddkata\\TDDKata\\TDDKata.StringCalculator.csproj": {
+              "projectPath": "D:\\mezgit\\tddkata\\TDDKata\\TDDKata.StringCalculator.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

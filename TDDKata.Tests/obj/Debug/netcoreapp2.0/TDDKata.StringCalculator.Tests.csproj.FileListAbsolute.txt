@@ -12,3 +12,5 @@ D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator
 D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.AssemblyInfo.cs
 D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.dll
 D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.pdb
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.dll
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.pdb

@@ -1,6 +1,4 @@
-﻿using System;
-using System.Linq;
-using Shouldly;
+﻿using Shouldly;
 using Xunit;
 
 namespace TDDKata.StringCalculator.Tests
@@ -30,13 +28,5 @@ namespace TDDKata.StringCalculator.Tests
             result.ShouldBe(expectedResult);
         }
 
-    }
-
-    public class StringCalculator
-    {
-        public int Add(string numbersToAdd)
-        {
-            return string.IsNullOrEmpty(numbersToAdd) ? 0 : numbersToAdd.Split(",").Sum(Convert.ToInt32);
-        }
     }
 }
