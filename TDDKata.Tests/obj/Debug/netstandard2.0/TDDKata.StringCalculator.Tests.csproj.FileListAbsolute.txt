@@ -1,6 +1,5 @@
 D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\xunit.runner.visualstudio.testadapter.dll
-D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\xunit.runner.reporters.net452.dll
-D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\xunit.runner.utility.net452.dll
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\xunit.runner.utility.net35.dll
 D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\xunit.abstractions.dll
 D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\TDDKata.StringCalculator.Tests.deps.json
 D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netstandard2.0\TDDKata.StringCalculator.Tests.dll

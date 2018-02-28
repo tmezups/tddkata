@@ -1,0 +1,14 @@
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.deps.json
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.runtimeconfig.json
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.runtimeconfig.dev.json
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.dll
+D:\mezgit\tddkata\TDDKata.Tests\bin\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.pdb
+D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.csprojResolveAssemblyReference.cache
+D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.csproj.CoreCompileInputs.cache
+D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.AssemblyInfoInputs.cache
+D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.AssemblyInfo.cs
+D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.dll
+D:\mezgit\tddkata\TDDKata.Tests\obj\Debug\netcoreapp2.0\TDDKata.StringCalculator.Tests.pdb
