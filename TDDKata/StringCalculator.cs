@@ -7,7 +7,7 @@ namespace TDDKata.StringCalculator
     {
         public int Add(string numbersToAdd)
         {
-            return string.IsNullOrEmpty(numbersToAdd) ? 0 : numbersToAdd.Split(",").Sum(Convert.ToInt32);
+            return string.IsNullOrEmpty(numbersToAdd) ? 0 : numbersToAdd.Split(new []{ "\n", ","}, StringSplitOptions.None).Sum(Convert.ToInt32);
         }
     }
 }
